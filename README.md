@@ -13,10 +13,10 @@ Chọn File -> Clone repository. Popup hiện lên, chọn đúng repo tại tab
 Chọn File -> Add local repository, chọn tới folder chứa repo tại local (folder chứa thư mục .git).
 ![alt text](https://raw.githubusercontent.com/oopuet/oop_resource/master/resources/add_local.PNG)
 2. Với các lần sau:
-- Đảm bảo đã chọn đúng repo, tại trên cùng bên trái Current repository
-- Chọn 'Fetch origin' tại bên phải trên cùng, nếu có xuất hiện Pull origin, click để pull change từ server về.
+- Đảm bảo đã chọn đúng repo, tại trên cùng bên trái 'Current repository'
+- Chọn 'Fetch origin' tại bên phải trên cùng, nếu có xuất hiện 'Pull origin', click để pull change từ server về.
 ![alt text](https://raw.githubusercontent.com/oopuet/oop_resource/master/resources/pull.PNG)
-- chọn các file thay đổi (bỏ tick những file không push lên, ví dụ như file .class). Thêm commit message, chọn 'commit to master' ở dưới.
+- Nếu chưa copy mã nguồn thì các bạn copy mã nguồn của mình vào đúng folder, chọn các file thay đổi (bỏ tick những file không push lên, ví dụ như file .class). Thêm commit message, chọn 'commit to master' ở dưới.
 ![alt text](https://raw.githubusercontent.com/oopuet/oop_resource/master/resources/commit.PNG)
 - click chọn 'push origin' để push lên server
 ![alt text](https://raw.githubusercontent.com/oopuet/oop_resource/master/resources/push.PNG)
