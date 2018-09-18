@@ -9,4 +9,4 @@ Yêu cầu chung: cài đặt và đăng nhập vào app như trong Guide mình 
 - Nếu bạn chưa clone repo về: Chọn File -> Clone repository
 ![alt text](https://raw.githubusercontent.com/oopuet/oop_resource/master/resources/clone.png)
 - Nếu bạn đã clone từ trước đó (sử dụng cmd or others): Chọn File -> Add local repository và paste link repo vào
-![alt text](https://raw.githubusercontent.com/oopuet/oop_resource/master/resources/add_local.png)
+![alt text](https://raw.githubusercontent.com/oopuet/oop_resource/master/resources/add_local.PNG)
